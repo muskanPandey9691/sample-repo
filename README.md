@@ -1,2 +1,2 @@
 # sample-repo
-new for me
+new for me and everyone.
